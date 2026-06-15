@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# Generated files
+captures/*.pcap
+reports/*.csv
+
+# Keep empty folders in Git
+!captures/.gitkeep
+!reports/.gitkeep
+
+# OS files
+Thumbs.db
+.DS_Store
