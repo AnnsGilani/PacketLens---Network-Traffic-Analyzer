@@ -237,9 +237,27 @@ PCAP files contain the actual captured packets and can be opened in Wireshark.
 - Brute-force attacks cannot be confirmed from packet counts alone.
 - Accurate investigations may require firewall, authentication, endpoint, and application logs.
 
-## Suggested Screenshots
+## Screenshots
 
-Add these screenshots to a `screenshots/` folder before publishing:
+### Main Menu
+
+![PacketLens Main Menu](screenshots/main-menu.png)
+
+### Live Packet Capture
+
+![PacketLens Live Capture](screenshots/live-capture.png)
+
+### Capture Summary
+
+![PacketLens Capture Summary](screenshots/capture-summary.png)
+
+### CSV Report
+
+![PacketLens CSV Report](screenshots/csv-report.png)
+
+### PCAP Analysis in Wireshark
+
+![PacketLens PCAP in Wireshark](screenshots/wireshark-pcap.png)
 
 1. Main menu
 2. Live packet output
