@@ -259,18 +259,6 @@ PCAP files contain the actual captured packets and can be opened in Wireshark.
 
 ![PacketLens PCAP in Wireshark](screenshots/wireshark-pcap.png)
 
-1. Main menu
-2. Live packet output
-3. Capture summary
-4. CSV report opened in Excel
-5. PCAP opened in Wireshark
-6. Example alert output
-
-Then include them in this README using:
-
-```markdown
-![PacketLens Live Capture](screenshots/live-capture.png)
-```
 
 ## Skills Demonstrated
 
